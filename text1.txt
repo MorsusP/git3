@@ -1,0 +1,5 @@
+house
+apple
+table
+network
+power
